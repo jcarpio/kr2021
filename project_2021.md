@@ -2,16 +2,7 @@
 # Course 2020-2021
 ### Document version: 1.0.0
 
-** Important: this document may be modified during the course of the semester. Please check the latest version of it in this repository ** https://github.com/jcarpio/kr1920/edit/master/project-kr.md
-
-
-
-## Finished projects
-### https://github.com/michaelkleinschuster422/kr1920
-### https://github.com/CristianColavito/kr1920
-### https://github.com/kamilponikwia/KR
-### https://github.com/JeffreyBollen/kr1920
-### https://github.com/agnespie/WATERJUG
+** Important: this document may be modified during the course of the semester. Please check the latest version of it in this repository ** https://github.com/jcarpio/kr2021/edit/master/project_2021.md
 
 
 ## Project description:
@@ -35,11 +26,9 @@ to those who appear on these pages. After carrying out the implementation you mu
 The operation of the program carried out, the difficulties encountered and how they have been solved are explained. It will be valued
 the originality of the work, the clarity in the explanations and the correct operation of the program.
 
-Two deliveries will be made:
-
-### The first, (enters mid-project) at the end of May on a date to be specified. In this installment, preliminary versions of both theoretical and practical work must be presented.
+Final delivery date:
     
-### The second on the official date of the Knowledge Representation exam. On this second date, the final documents of the theoretical part and the practical part must be delivered.
+### The final delivery date will be on the official date of the Knowledge Representation exam. On this second date, the final documents of the theoretical part and the practical part must be delivered.
 
 ### Bibliography
 
